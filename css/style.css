@@ -29,16 +29,18 @@ ul, ol {
 .when-mobile { display: none; }
 
 button {
-	padding: 0.5rem 2rem;
+	padding: 9px 27px 11px;
 	border: 1px solid white;
 	border-radius: 10px;
 	color: white;
-	width: fit-content; /* ブロックレベル要素であるbuttonの幅は、
-							通常親要素の100%となる。
-							しかし、内容物の幅とする際には fit-content 値を
-							指定するとよい。
-							つまり外側の親の幅に頼るのではなく、内側の
-							内容物の幅に頼る方法が fit-content である */
+	width: 153px;
+		/* 
+		テクニック：
+		デザインカンプに示された 153px の代わりに、`fit-content`を与える方法もある。	
+		width: fit-content; ブロックレベル要素であるbuttonの幅は、通常、親要素の幅と同じ(=100%)になる。
+							（つまり、通常は外側の大きさに準じる）
+							'fit-content' を指定すると幅の基準を内容の幅に変更することができる。
+		*/
 }
 
 .accent {
@@ -73,13 +75,13 @@ body {
 
 .firstview header h1.logo {
 	font-weight: 900;		/* black */
-	font-size: 1.875rem;	/* 30px */
+	font-size: 30px;
 }
 
 .firstview header nav ul {
 	width: 724px;
 	font-weight: 500;		/* medium */
-	font-size: 1.125rem;	/* 18px */
+	font-size: 18px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -103,13 +105,13 @@ body {
 .firstview section h2 {
 	width: 748px; 
 	font-family: 'Libre Caslon Display', serif;
-	font-size: 5.0rem;		/* 80px */
+	font-size: 80px;
 }
 
 .firstview section > p {
 	width: 528px; 
 	font-weight: 500; /* medium */
-	font-size: 1.125rem;	/* 18px */
+	font-size: 18px;
 }
 
 section.newest-reads {
@@ -119,7 +121,7 @@ section.newest-reads {
 section.newest-reads h2 {
 	margin-bottom: 44px;
 	font-weight: bold;
-	font-size: 2.5rem;		/* 40px */
+	font-size: 40px;
 }
 
 section.newest-reads ul {
@@ -162,7 +164,7 @@ section.newest-reads ul {
 
 .card .title {
 	font-weight: bold;
-	font-size: 1.5625rem;	/* 25px */
+	font-size: 25px;
 }
 
 .card .read-more {
@@ -184,7 +186,7 @@ section.newest-reads ul {
 	.when-mobile { display: block; }
 
 	.firstview section h2 {
-		font-size: 4.375rem;	/* 70px */
+		font-size: 70px;
 	}
 
 }
@@ -209,7 +211,7 @@ section.newest-reads ul {
 @media (max-width: 580px) {
 
 	.firstview section h2 {
-		font-size: 3.125rem;	/* 50px */
+		font-size: 50px;
 	}
 
 }
