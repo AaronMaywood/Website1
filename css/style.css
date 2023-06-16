@@ -189,6 +189,10 @@ section.newest-reads ul {
 		font-size: 70px;
 	}
 
+	button {
+		width: auto;
+	}
+
 }
 
 @media (max-width: 748px) {
