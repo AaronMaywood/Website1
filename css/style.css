@@ -94,6 +94,7 @@ body {
 }
 
 .firstview section {
+	width: 100%;
 	position: absolute;
 	top: 285px;
 	padding: 0 4rem;
