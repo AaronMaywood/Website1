@@ -104,7 +104,8 @@ body {
 }
 
 .firstview section h2 {
-	width: 748px; 
+	width: 100%;
+	max-width: 748px; 
 	font-family: 'Libre Caslon Display', serif;
 	font-size: 80px;
 }
