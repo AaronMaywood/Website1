@@ -46,9 +46,9 @@ images/ フォルダのなかにあります。
 - デザインカンプに現れる順に並べています。
 - HTMLは加工してかまいません。必要に応じてクラス名を付けたりdiv要素を挿入したりして下さい。また、他の要素に変更してもかまいません。
 
-<title>Responsive Design Art News Landing Page</title>
+<title>Lorem ipsum dolor sit amet</title>
 
-ARTJUNKS
+Lorem ipsum
 
 <ul>
 	<li><a href="">Home</a></li>
@@ -62,24 +62,23 @@ ARTJUNKS
 
 <img src="images/Hamburger.svg" width="35" height="35" alt="クリックするとナビゲーションを開きます。">
 
-<h2>Art pieces made easy accessible for everyone</h2>
-<p>Learn, buy and trade art pieces of your favorite artist around the world by using crypto currencies.</p>
+<h2>Lorem ipsum dolor sit amet, consectetur</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
 <p>Learn more</p>
 
-<h2>Newest reads</h2>
+<h2>Lorem ipsum</h2>
 
 <img src="images/thumb1.jpg" alt="">
-<p>5 August, 2022</p>
-<p>France seeks to protect Russia's Morozov collection from seizure as masterpieces return home</p>
+<p>8 April, 2025</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
 
 <img src="images/thumb2.jpg" alt="">
-<p>5 August, 2022</p>
-<p>Picasso’s muse as sea creature—will it break $100m at Sotheby's New York sale?</p>
+<p>8 April, 2025</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
 
 <img src="images/thumb3.jpg" alt="">
-<p>5 August, 2022</p>
-<p>Venice Biennale 2022: all the national pavilions, artists and curators</p>
+<p>8 April, 2025</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
-
