@@ -68,17 +68,17 @@ Lorem ipsum
 
 <h2>Lorem ipsum</h2>
 
-<img src="images/thumb1.jpg" alt="">
+<img src="images/thumb1.png" alt="">
 <p>8 April, 2025</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
 
-<img src="images/thumb2.jpg" alt="">
+<img src="images/thumb2.png" alt="">
 <p>8 April, 2025</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
 
-<img src="images/thumb3.jpg" alt="">
+<img src="images/thumb3.png" alt="">
 <p>8 April, 2025</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
 <p><a href="">Read more →</a></p>
