@@ -2,7 +2,7 @@
 
 ## 教材について
 
-この教材の作者は Juli@juliamoutaqi 氏(https://www.figma.com/@juliamoutaqi) で、本作はクリエィティブコモンズ 表示 4.0 国際ライセンス（https://creativecommons.org/licenses/by/4.0/deed.ja）にて https://www.figma.com/community/file/1095377079540950532 で配付されており、アジャストアカデミーの手で加筆したものです。
+「[Responsive Design Art News Landing Page](https://www.figma.com/community/file/1095377079540950532/responsive-design-art-news-landing-page)」は[クリエイティブ・コモンズ 表示 4.0 国際](https://creativecommons.org/licenses/by/4.0/deed.ja)のもとに利用を許諾されています。帰属：[Juli](https://www.figma.com/@juliamoutaqi)。株式会社アジャストにより、テキスト・画像素材を差し替えて使用しています。
 
 ## リセットCSS
 
