@@ -182,8 +182,12 @@ section.newest-reads ul {
 	color: #D9852C; /* Read more→ */
 }
 
-/* 指示通りに 744px だが、980px で崩れ始めるので 980px のブレークポイントの実装も検討するとなお良い */
-@media (max-width: 744px) {
+/*
+ブレークポイントは指示では 744px と 375px の２つだが、
+980px で崩れ始めるので 980px のブレークポイントの実装も行った
+*/
+
+@media (max-width: 980px) {
 
 	.when-desktop { display: none; }
 	.when-mobile { display: block; }
@@ -192,6 +196,10 @@ section.newest-reads ul {
 		width: 100%;
 	}
 	
+}
+
+@media (max-width: 744px) {
+
 	.firstview section h2 {
 		width: 100%;
 		font-size: 70px;
